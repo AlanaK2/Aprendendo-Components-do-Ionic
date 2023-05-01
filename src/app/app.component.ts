@@ -16,6 +16,9 @@ export class AppComponent {
     { title: 'Chip', url: 'chip', icon: 'construct' },
     { title: 'Content', url: 'content', icon: 'construct' },
     { title: 'DateTime', url: 'datetime', icon: 'construct' },
+    { title: 'Fab', url: 'fab', icon: 'construct' },
+    { title: 'Grid', url: 'grid', icon: 'construct' },
+    { title: 'Infinite-Scroll', url: 'infinitescroll', icon: 'construct' },
   ];
   public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
   constructor() {}
